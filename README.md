@@ -1,4 +1,4 @@
-![Globant-Java&Spring-Boot-AI-Developer](img/image.png)
+![Globant-Java&Spring-Boot-AI-Developer](img/lgo.png)
 # Globant-Java&Spring-Boot-AI-Developer
 Globant - Java & Spring Boot AI Developer
 
